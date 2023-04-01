@@ -1,0 +1,9 @@
+.card-body i:hover {
+    transform: rotate(360deg);
+    transition: all 0.5s ease;
+  }
+
+.card-img-top:hover {
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
